@@ -1,2 +1,2 @@
-work
+Work
 Outline for project guidelines
